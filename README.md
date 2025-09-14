@@ -9,8 +9,11 @@
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wprkftlgus&show_icons=true&theme=스타일)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+### ✔️ 👨 Social
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
 <!--
 **wprkftlgus/wprkftlgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
