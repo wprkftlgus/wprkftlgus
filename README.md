@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### ✔️ 🚀 Skills
-<a href="www.naver.com" target="_blank">
+<a href="www.naver.com" >
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
