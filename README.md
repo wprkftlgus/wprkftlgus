@@ -3,7 +3,7 @@
 ### I'm 👨‍💻 Full-Stack Web Developer
 ### Based on Ⓜ MERN Stack
 
----
+--
 
 ### ✅ 🚀 Skills
 <a href="http://">
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 </a>
 
----
+--
 
 ### ✅ 👨 Social
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wprkftlgus)
@@ -27,7 +27,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
 [![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](mailto:your-email@gmail.com)
 
----
+--
 
 ### ✅ 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wprkftlgus&count_private=true&show_icons=true&theme=dark)
