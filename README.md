@@ -1,4 +1,7 @@
 ## Hi there 👋
+## My name is Sihyeon
+## I'm Full-Stack Web Developer
+## Based on MERN Stack.
 ### ✔️ 🚀 Skills
 <a href="http://" >
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,6 +18,9 @@
 ## 📫 How to reach me: 
 ### ✔️ 👨 Social
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 
 <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,12 +30,4 @@
 
 **wprkftlgus/wprkftlgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
