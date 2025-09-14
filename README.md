@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 </a>
 
-또는 <br/>을 줄바꾸자 하는 곳에 입력해 줄바꿈할 수 있다. 예를 들면 이렇게.<br/>
+  <br/>
     
 
 ## ✅ 👨 Social
@@ -39,6 +39,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wprkftlgus&style=flat-square&color=blue" alt=""/>
 </div>
-  **wprkftlgus/wprkftlgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
