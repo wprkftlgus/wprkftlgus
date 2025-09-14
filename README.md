@@ -2,7 +2,7 @@
 ### My name is 「 ✦ Sihyeon ✦ 」
 ### I'm 👨‍💻 Full-Stack Web Developer
 ### Based on Ⓜ MERN Stack
-
+### 🎓 Graduated from University of Ulsan, Naval Architecture & Ocean Engineering
 ---
 
 ### 🚀 Skills
