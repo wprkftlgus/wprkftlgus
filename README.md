@@ -27,7 +27,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
 [![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](mailto:your-email@gmail.com)
 
-----
+---
 
 ### ✅ 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wprkftlgus&count_private=true&show_icons=true&theme=dark)
