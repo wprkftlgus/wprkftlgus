@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Sihyeon
+### My name is 「 ✦ Sihyeon ✦ 」
 ### I'm Full-Stack Web Developer
 ### Based on MERN Stack.
 
@@ -23,9 +23,9 @@
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 
- ✔️ Stats
-![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolranlee&count_private=true&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolranlee&theme=onedark)  
+### ✔️ 📊 Stats
+![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=wprkftlgus&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprkftlgus&theme=onedark)  
   
   
   **wprkftlgus/wprkftlgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
