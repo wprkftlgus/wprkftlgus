@@ -5,7 +5,7 @@
 
 ---
 
-### ✅ 🚀 Skills
+### 🚀 Skills
 <a href="http://">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,7 +23,7 @@
 
 ---
 
-### ✅ 👨 Social
+### 👨 Social
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wprkftlgus)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
@@ -31,6 +31,6 @@
 
 ---
 
-### ✅ 📊 Stats
+### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wprkftlgus&count_private=true&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wprkftlgus&theme=dark)
