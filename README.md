@@ -1,7 +1,8 @@
 ## Hi there 👋
-## My name is Sihyeon
-## I'm Full-Stack Web Developer
-## Based on MERN Stack.
+### My name is Sihyeon
+### I'm Full-Stack Web Developer
+### Based on MERN Stack.
+
 ### ✔️ 🚀 Skills
 <a href="http://" >
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
