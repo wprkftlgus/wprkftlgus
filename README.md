@@ -1,4 +1,4 @@
-## 👋 Hi there
+### 👋 Hi there
 ### My name is 「 ✦ Sihyeon ✦ 」
 ### I'm 👨‍💻 Full-Stack Web Developer
 ### Based on Ⓜ MERN Stack
