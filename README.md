@@ -7,6 +7,9 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wprkftlgus&show_icons=true&theme=스타일)
+
 <!--
 **wprkftlgus/wprkftlgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
