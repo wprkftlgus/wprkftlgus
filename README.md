@@ -32,11 +32,4 @@
 ---
 
 ### 📊 Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=wprkftlgus&theme=vue&show_icons=true"/></a>
-</p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wprkftlgus&count_private=true&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wprkftlgus&theme=dark)
