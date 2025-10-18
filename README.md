@@ -7,7 +7,7 @@
 ### <div align="center">🎓 Graduated from University of Ulsan, Naval Architecture & Ocean Engineering</div>
 ---
 
-### <div align="center">🚀 Skills</div>
+### <div align="center">🚀 Skills</div><br>
 <div align="center">
 <a href="https://spacebysihyeon.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +31,7 @@
 
 ---
 
-### <div align="center">👨 Social</div>
+### <div align="center">👨 Social</div><br>
 
 <p align="center">
   <a href="https://github.com/wprkftlgus">
@@ -51,7 +51,7 @@
 
 ---
 
-### <div align="center">📊 Stats</div>
+### <div align="center">📊 Stats</div><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprkftlgus&theme=dark" alt="Top Languages" />
 </p>
