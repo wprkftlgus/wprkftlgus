@@ -1,13 +1,13 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e2bd7d0a-9d83-4d54-848e-dea833210b44" />
 
-### 👋 Hi there
-### My name is 「 ✦ Sihyeon ✦ 」
-### I'm 👨‍💻 Full-Stack Web Developer
-### Based on Ⓜ MERN Stack
-### 🎓 Graduated from University of Ulsan, Naval Architecture & Ocean Engineering
+### <div align="center">👋 Hi there</div>
+### <div align="center">My name is 「 ✦ Sihyeon ✦ 」</div>
+### <div align="center">I'm 👨‍💻 Full-Stack Web Developer</div>
+### <div align="center">Based on Ⓜ MERN Stack</div>
+### <div align="center">🎓 Graduated from University of Ulsan, Naval Architecture & Ocean Engineering</div>
 ---
 
-# 🚀 Skills
+# <div align="center">🚀 Skills</div>
 <a href="https://spacebysihyeon.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ---
 
-# 👨 Social
+# <div align="center">👨 Social</div>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wprkftlgus) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01099837449) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wprkftlgus) [![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](mailto:wprkftlgus@gmail.com)
 
 ---
