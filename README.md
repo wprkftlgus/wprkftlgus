@@ -7,7 +7,7 @@
 ### <div align="center">🎓 Graduated from University of Ulsan, Naval Architecture & Ocean Engineering</div>
 ---
 
-# <div align="center">🚀 Skills</div>
+## <div align="center">🚀 Skills</div>
 <a href="https://spacebysihyeon.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,10 +27,10 @@
 
 ---
 
-# <div align="center">👨 Social</div>
+## <div align="center">👨 Social</div>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wprkftlgus) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01099837449) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wprkftlgus) [![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](mailto:wprkftlgus@gmail.com)
 
 ---
 
-# 📊 Stats
+## <div align="center">📊 Stats</div>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wprkftlgus&theme=dark)
