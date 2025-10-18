@@ -1,3 +1,5 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e2bd7d0a-9d83-4d54-848e-dea833210b44" />
+
 ### 👋 Hi there
 ### My name is 「 ✦ Sihyeon ✦ 」
 ### I'm 👨‍💻 Full-Stack Web Developer
@@ -25,7 +27,7 @@
 
 ---
 
-# <div align="center">👨 Social</div>
+# 👨 Social
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wprkftlgus) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01099837449) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wprkftlgus) [![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](mailto:wprkftlgus@gmail.com)
 
 ---
