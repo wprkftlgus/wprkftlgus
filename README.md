@@ -58,5 +58,7 @@
 ---
 
 ### <div align="center">📊 Stats</div><br>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wprkftlgus&theme=dark" alt="Top Languages" />
+</p>
 
