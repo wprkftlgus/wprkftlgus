@@ -10,7 +10,7 @@
 
 ### <div align="center">🚀 Skills</div><br>
 <p align="center">
-  <a href="https://jegalsihyeon.netlify.app/" target="_blank">
+  <a href="https://jsihyeon.online" target="_blank">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
