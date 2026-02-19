@@ -3,9 +3,10 @@
 ### <div align="center">👋 Hi there</div>
 ### <div align="center">My name is 「 ✦ Sihyeon ✦ 」</div>
 ### <div align="center">I'm 👨‍💻 Full-Stack Software Developer</div>
+### <div align="center">📚 I am currently learning C#, .NET, and Angular to further expand my development skills.</div>
 ### <div align="center">🎓 Graduated from University of Ulsan, Naval Architecture & Ocean Engineering</div>
-### <div align="center">🚀 8+ Deployed Projects including SaaS, CRUD, Netflix Clone, Apple Clone, Recipe Search, Interactive Calculator, Three.js Planetary System, Portfolio Homepage</div>
-### <div align="center">🌱 Open to Junior Full-Stack or Frontend or Backend Opportunities & Eager to Learn in a Collaborative Team Environment</div>
+### <div align="center">🚀 8+ Deployed Projects including SaaS, CRUD, Amazon Clone, Netflix Clone, Apple Clone, Recipe Search, Interactive Calculator, Three.js Planetary System, Portfolio Homepage</div>
+### <div align="center">🌱 Open to Full-Stack or Frontend or Backend Opportunities & Eager to Learn in a Collaborative Team Environment</div>
 ---
 
 ### <div align="center">🚀 Skills</div><br>
